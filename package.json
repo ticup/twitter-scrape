@@ -1,0 +1,24 @@
+{
+  "name": "twitter-scrape",
+  "description": "Minor functions to help scrape tweets and followers from the twitter API and work with the tweets/followers per request and requests/15min limits.",
+  "author": "Tim Coppieters <coppieters.tim@gmail.com>",
+  "keywords": ["twitter", "scrape"],
+  "version": "0.0.2",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/ticup/twitter-scrape.git"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "optionalDependencies": {
+  },
+  "scripts": {
+  }
+}
